@@ -12,5 +12,4 @@ https://drive.google.com/file/d/1dCeRVsNUtM-OANsFbgCpaFYIKGDs6iQE/view?usp=shari
 
 # Fichiers projet :
 Données brutes :
-dataset_2000_2020_UE_date
-owid-energy-data
+dataset_2000_2020_UE_date / owid-energy-data
